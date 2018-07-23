@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/WebRoot</rootDir>
+    <workDir>/work</workDir>
+    <exportSource>false</exportSource>
+    <reloadable>false</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo>%3CResources%0D%0A++++cachingAllowed%3D%22true%22%0D%0A++++cacheMaxSize%3D%22100000%22%0D%0A%2F%3E</extraInfo>
+    <mavenClasspath>false</mavenClasspath>
+    <webPath>/springmvc</webPath>
+    <webClassPathEntries>
+    </webClassPathEntries>
+</tomcatProjectProperties>
